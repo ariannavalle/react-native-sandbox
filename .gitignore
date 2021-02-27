@@ -1,4 +1,6 @@
 
 .DS_Store
+.idea/
 rn-starter/.expo-shared/assets.json
 rn-starter/.vscode/settings.json
+rn-starter/build.txt
